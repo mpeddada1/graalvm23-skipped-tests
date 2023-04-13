@@ -136,7 +136,7 @@ Recommendations:
                         0.8s (2.4% of total time) in 21 GCs | Peak RSS: 4.29GB | CPU load: 11.83
 ------------------------------------------------------------------------------------------------------------------------
 Produced artifacts:
- /usr/local/google/home/mpeddada/IdeaProjects/native-image-experiments/graalvm23-skipped-tests/child-module/target/native-tests (executable)
+ ${HOME}/graalvm23-skipped-tests/child-module/target/native-tests (executable)
 ========================================================================================================================
 Finished generating 'native-tests' in 31.6s.
 [INFO] Executing: ${HOME}/graalvm23-skipped-tests/child-module/target/native-tests --xml-output-dir ${HOME}/graalvm23-skipped-tests/child-module/target/native-test-reports -Djunit.platform.listeners.uid.tracking.output.dir=${HOME}/graalvm23-skipped-tests/child-module/target/test-ids
