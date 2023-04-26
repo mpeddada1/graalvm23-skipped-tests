@@ -86,7 +86,7 @@ Test run finished after 3 ms
 [INFO] Finished at: 2023-04-13T20:31:52Z
 [INFO] ------------------------------------------------------------------------
 ```
-5. Uncomment these lines in pom.xml and rerun to see:
+5. Uncomment [these lines](https://github.com/mpeddada1/graalvm23-skipped-tests/blob/854a790900d1f5311bd3fa13af3e3dab57bb4c09/pom.xml#L53-L60) in pom.xml and rerun to see:
 
 ```build
 [1/8] Initializing...                                                                                    (5.6s @ 0.16GB)
